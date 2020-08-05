@@ -1,0 +1,48 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 20px 0px 10px 0px;
+    border-bottom: 1 px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: #0f2a48;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+
+.main{
+    padding: 0px 0px 100px 0px;
+}
+
+body{
+    padding: 0px 0px 0px 0px;
+    z-index: 0;
+
+}
+
+.col{
+    padding-bottom: 10px;
+}
+
+.navbar-dark{
+    background-color: #0f2a48;
+}
+
+.anchor{
+    text-decoration: none;
+}
+
+
+.nav-item{
+    padding: 0px 5px 0px 0px;
+}
+li{
+padding-top: 10px;
+}
